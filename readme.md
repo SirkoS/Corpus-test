@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18101358.svg)](https://doi.org/10.5281/zenodo.18101358)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18101358-blue.svg)](https://doi.org/10.5281/zenodo.18101358)
 
 
 I-ADOPT Corpus
