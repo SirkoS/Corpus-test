@@ -1,4 +1,4 @@
-name: IAdopt-Catalogue: GitHub Pages
+name: IAdopt-Catalogue - GitHub Pages
 
 on:
   workflow_dispatch:
